@@ -2,7 +2,7 @@
     "personal": {
         "name": "Revianto Yusuf Afandi",
         "title": "Backend Developer & Frontend Developer",
-        "tagline": "I build accessible, pixel-perfect, and performant web experiences. Focused on creating digital products, brands, and experiences that users love.",
+        "tagline": "Backend-heavy Full Stack Developer focused on performance, scalability, and delivering high-quality digital products.",
         "location": "Jakarta, Indonesia",
         "email": "[EMAIL_ADDRESS]",
         "linkedin": "linkedin.com/in/revianto",
@@ -16,16 +16,16 @@
     "about": {
         "headline": "Bridging the gap between engineering and design.",
         "paragraphs": [
-            "I am a passionate designer and developer with over 5 years of experience in building scalable web applications. I don't just write code; I solve problems. My approach combines technical expertise with a keen eye for design.",
+            "I am a backend-heavy full stack developer with over 5 years of experience in building scalable web applications. I don't just write code; I solve problems. My approach combines technical expertise with a keen eye for design.",
             "When I'm not coding, you can find me exploring new design trends, contributing to open-source projects, or sharing my knowledge with the developer community."
         ],
         "stats": [
             {
-                "value": "50+",
+                "value": "10+",
                 "label": "Projects Completed"
             },
             {
-                "value": "20+",
+                "value": "5+",
                 "label": "Happy Clients"
             },
             {
@@ -36,35 +36,35 @@
     },
     "skills": [
         {
-            "name": "React / Next.js",
-            "level": "Expert",
-            "percent": 95,
-            "icon": "javascript",
+            "name": "Golang",
+            "level": "Advanced",
+            "percent": 80,
+            "icon": "go",
             "color": "blue"
         },
         {
-            "name": "Node.js",
+            "name": "PHP",
             "level": "Advanced",
             "percent": 85,
-            "icon": "data_object",
+            "icon": "php",
             "color": "yellow"
         },
         {
-            "name": "Tailwind CSS",
-            "level": "Expert",
-            "percent": 98,
-            "icon": "css",
+            "name": "Laravel",
+            "level": "Advanced",
+            "percent": 85,
+            "icon": "laravel",
             "color": "sky"
         },
         {
-            "name": "UI/UX Design",
-            "level": "Expert",
-            "percent": 90,
-            "icon": "design_services",
+            "name": "Fiber",
+            "level": "Advanced",
+            "percent": 80,
+            "icon": "fiber",
             "color": "purple"
         },
         {
-            "name": "PostgreSQL",
+            "name": "MySQL",
             "level": "Advanced",
             "percent": 80,
             "icon": "database",
