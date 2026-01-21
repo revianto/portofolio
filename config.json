@@ -71,7 +71,7 @@
             "color": "orange"
         },
         {
-            "name": "AWS / Cloud",
+            "name": "AWS",
             "level": "Intermediate",
             "percent": 75,
             "icon": "cloud",
@@ -80,8 +80,8 @@
     ],
     "experiences": [
         {
-            "title": "Senior Frontend Engineer",
-            "company": "TechFlow",
+            "title": "Backend Engineer",
+            "company": "Olsera",
             "period": "2022 - Present",
             "current": true,
             "items": [
@@ -91,9 +91,9 @@
             ]
         },
         {
-            "title": "UI Designer",
-            "company": "CreativeStudio",
-            "period": "2020 - 2022",
+            "title": "Backend Engineer",
+            "company": "Bisa AI",
+            "period": "2022 - 2023",
             "current": false,
             "items": [
                 "Designed user interfaces for over 15 client projects ranging from fintech to e-commerce.",
