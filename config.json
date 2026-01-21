@@ -37,8 +37,8 @@
     "skills": [
         {
             "name": "Golang",
-            "level": "Advanced",
-            "percent": 80,
+            "level": "Expert",
+            "percent": 90,
             "icon": "go",
             "color": "blue"
         },
@@ -52,7 +52,7 @@
         {
             "name": "Laravel",
             "level": "Advanced",
-            "percent": 85,
+            "percent": 80,
             "icon": "laravel",
             "color": "sky"
         },
@@ -61,7 +61,7 @@
             "level": "Advanced",
             "percent": 80,
             "icon": "fiber",
-            "color": "purple"
+            "color": "black"
         },
         {
             "name": "MySQL",
@@ -80,8 +80,8 @@
     ],
     "experiences": [
         {
-            "title": "Backend Engineer",
-            "company": "Olsera",
+            "title": "SeniorBackend Engineer",
+            "company": "PT Olsera Indonesia Pratama",
             "period": "2022 - Present",
             "current": true,
             "items": [
