@@ -1,15 +1,15 @@
 {
     "personal": {
-        "name": "John Doe",
-        "title": "Full Stack Developer & UI Designer",
+        "name": "Revianto Yusuf Afandi",
+        "title": "Backend Developer & Frontend Developer",
         "tagline": "I build accessible, pixel-perfect, and performant web experiences. Focused on creating digital products, brands, and experiences that users love.",
-        "location": "San Francisco, CA",
-        "email": "refianto.olsera@gmail.com",
-        "linkedin": "linkedin.com/in/johndoe",
-        "github": "github.com/johndoe",
-        "twitter": "twitter.com/johndoe",
+        "location": "Jakarta, Indonesia",
+        "email": "[EMAIL_ADDRESS]",
+        "linkedin": "linkedin.com/in/revianto",
+        "github": "github.com/revianto",
+        "twitter": "twitter.com/revianto",
         "yearsExperience": "5+",
-        "availableForWork": true,
+        "availableForWork": false,
         "profileImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuApEQsrntubcaEbxP65WlZ3hRpLpsN8vwp3RNCsLh8RmlhWmqYEdnFAi6ERpkoSbO_4LKSBQ6gdNndAK5nS9FiGfgGTBQ5CfkwvIMIuiCMOQvFN77JY1_oe3U3fKgJVBFPCZgw_T4vqd-cK7sKxxT8aDRBYc6X110Tzn0fGcEW8jT_tCy7z8SrXCQ4uIBG9gkeNUz6SdmWSC6izTsp5c6yEtLENXrJW8UGEkBIq7EsNu5UPz8-Fl6g6BrKUpFkITbS5x7GlyYtLSFU",
         "aboutImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBv73dPTddk-cFd0pNrxFUBG9OW3hb9TMGXfFtsHo142NVB1piMgnh91VrAG1_m13ftA4wZBRTzxOvsu8rJ8lDt0Bn-eDLzCAtuLB_fGBKLLUSco_snuAKdMcCqtW_eg8-PPz2VrqRu-MPTrOEyTkVPw_IZpMWfZUJ9oUI5t7m74XrYcBuQHmGdmcxYnW-VdzDsx8elai3PuUb3IJJBfd7mCRDzqgyO6Fd10gbDCswyZmTvTotvMDg5AfdPk-38hvvkbTnc-bv3AYg"
     },
