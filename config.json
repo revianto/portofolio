@@ -1,0 +1,152 @@
+{
+    "personal": {
+        "name": "John Doe",
+        "title": "Full Stack Developer & UI Designer",
+        "tagline": "I build accessible, pixel-perfect, and performant web experiences. Focused on creating digital products, brands, and experiences that users love.",
+        "location": "San Francisco, CA",
+        "email": "refianto.olsera@gmail.com",
+        "linkedin": "linkedin.com/in/johndoe",
+        "github": "github.com/johndoe",
+        "twitter": "twitter.com/johndoe",
+        "yearsExperience": "5+",
+        "availableForWork": true,
+        "profileImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuApEQsrntubcaEbxP65WlZ3hRpLpsN8vwp3RNCsLh8RmlhWmqYEdnFAi6ERpkoSbO_4LKSBQ6gdNndAK5nS9FiGfgGTBQ5CfkwvIMIuiCMOQvFN77JY1_oe3U3fKgJVBFPCZgw_T4vqd-cK7sKxxT8aDRBYc6X110Tzn0fGcEW8jT_tCy7z8SrXCQ4uIBG9gkeNUz6SdmWSC6izTsp5c6yEtLENXrJW8UGEkBIq7EsNu5UPz8-Fl6g6BrKUpFkITbS5x7GlyYtLSFU",
+        "aboutImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBv73dPTddk-cFd0pNrxFUBG9OW3hb9TMGXfFtsHo142NVB1piMgnh91VrAG1_m13ftA4wZBRTzxOvsu8rJ8lDt0Bn-eDLzCAtuLB_fGBKLLUSco_snuAKdMcCqtW_eg8-PPz2VrqRu-MPTrOEyTkVPw_IZpMWfZUJ9oUI5t7m74XrYcBuQHmGdmcxYnW-VdzDsx8elai3PuUb3IJJBfd7mCRDzqgyO6Fd10gbDCswyZmTvTotvMDg5AfdPk-38hvvkbTnc-bv3AYg"
+    },
+    "about": {
+        "headline": "Bridging the gap between engineering and design.",
+        "paragraphs": [
+            "I am a passionate designer and developer with over 5 years of experience in building scalable web applications. I don't just write code; I solve problems. My approach combines technical expertise with a keen eye for design.",
+            "When I'm not coding, you can find me exploring new design trends, contributing to open-source projects, or sharing my knowledge with the developer community."
+        ],
+        "stats": [
+            {
+                "value": "50+",
+                "label": "Projects Completed"
+            },
+            {
+                "value": "20+",
+                "label": "Happy Clients"
+            },
+            {
+                "value": "100%",
+                "label": "Job Success"
+            }
+        ]
+    },
+    "skills": [
+        {
+            "name": "React / Next.js",
+            "level": "Expert",
+            "percent": 95,
+            "icon": "javascript",
+            "color": "blue"
+        },
+        {
+            "name": "Node.js",
+            "level": "Advanced",
+            "percent": 85,
+            "icon": "data_object",
+            "color": "yellow"
+        },
+        {
+            "name": "Tailwind CSS",
+            "level": "Expert",
+            "percent": 98,
+            "icon": "css",
+            "color": "sky"
+        },
+        {
+            "name": "UI/UX Design",
+            "level": "Expert",
+            "percent": 90,
+            "icon": "design_services",
+            "color": "purple"
+        },
+        {
+            "name": "PostgreSQL",
+            "level": "Advanced",
+            "percent": 80,
+            "icon": "database",
+            "color": "orange"
+        },
+        {
+            "name": "AWS / Cloud",
+            "level": "Intermediate",
+            "percent": 75,
+            "icon": "cloud",
+            "color": "indigo"
+        }
+    ],
+    "experiences": [
+        {
+            "title": "Senior Frontend Engineer",
+            "company": "TechFlow",
+            "period": "2022 - Present",
+            "current": true,
+            "items": [
+                "Spearheaded the migration of a legacy jQuery codebase to React 18, improving load times by 40%.",
+                "Mentored 3 junior developers and established code review guidelines.",
+                "Implemented a comprehensive Design System reducing UI inconsistency by 85%."
+            ]
+        },
+        {
+            "title": "UI Designer",
+            "company": "CreativeStudio",
+            "period": "2020 - 2022",
+            "current": false,
+            "items": [
+                "Designed user interfaces for over 15 client projects ranging from fintech to e-commerce.",
+                "Collaborated closely with developers to ensure pixel-perfect implementation."
+            ]
+        },
+        {
+            "title": "Junior Developer",
+            "company": "StartUp Inc",
+            "period": "2018 - 2020",
+            "current": false,
+            "items": [
+                "Developed and maintained responsive websites using HTML, CSS, and vanilla JavaScript.",
+                "Participated in daily stand-ups and agile sprint planning."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "FinTrack Dashboard",
+            "description": "A comprehensive financial analytics dashboard featuring real-time data visualization using D3.js and WebSocket integration.",
+            "tags": [
+                "React",
+                "TypeScript",
+                "D3.js"
+            ],
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCISXP_qM-wACd2Ikp4KCevSIhlbR5mFyHVGUyBwJQZYOVGMuW2BYQfb7qY4igEk59BcWG7v737YbsS9lQembqQQveje4WQtbhNDAlvgN8JB_NJBrU4YQr1NGQR01bZdOCPRCE70nhBn2U14_MOprNxIUNfmaW33zFxsbVaV8m7zxBmSIfg5zdXTpDuWr0E8zALTAZyV4-9RDA-dUphXBS3oESZ9EfOeYRJLRbdyLh5QyM1SiODT-ZckqAPqIe9wBVZy_1KL4_u2T8",
+            "liveUrl": "#",
+            "githubUrl": "#"
+        },
+        {
+            "title": "E-commerce Redesign",
+            "description": "Complete UI/UX overhaul for a fashion retailer, increasing conversion rates by 15% through streamlined checkout flows.",
+            "tags": [
+                "Next.js",
+                "Stripe",
+                "Tailwind"
+            ],
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAaTLJAK95Nn9bhPcZfrJUTNE97h44n5R0I8TZafiwvZy-cpBEmFNdS7jeIm597hh9X0a1zDifRYswZnmONJq1GRT7puEc6lyIm_t0qzgvi5RMweyDJTOo-YrIWQ_TUoMkDSH6iL6RK7cXkFk8BUwXlKP55zQix9hPTsJSVAdenugEPIEiZUdsVQRZnOfN1MC2RMDntT56pAq6uKo3IhpYs6cLAWSF595zcKtuZQWTm0umM2Rnww1IS7SH2xUPrDBbVQUKYmu8v1PQ",
+            "liveUrl": "#",
+            "githubUrl": "#"
+        },
+        {
+            "title": "TaskMaster App",
+            "description": "A collaborative project management tool featuring drag-and-drop boards, real-time updates, and team permissions.",
+            "tags": [
+                "Vue.js",
+                "Firebase",
+                "Pinia"
+            ],
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCP2Q8eaArQReubx9MocjNPLTEX-QobXcanEK0kZhJXIHlwxJ1AV0-drbamncjeQON1qMPQA1Wk0GpkgVitjqnCWGQStcHoX_tRkQUWK1fOrlFqv8UnWoEtDVPuRdemJyGe7YYHsPK-fQs9QPpVF5b64IZY6GtYkTcbNQ2dM8zuMJW5rTc-b2Mzw2yochNv1wuRsIBw6mNdm3Xs1SuIjgeGOh9tWyBJ4pMaXMypVD8DYMekcG-_82F5hyKLKfBcs1P-Syz2R9d6-a4",
+            "liveUrl": "#",
+            "githubUrl": "#"
+        }
+    ]
+}
